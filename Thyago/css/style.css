@@ -1,0 +1,113 @@
+.home-light {
+	background-color: #FFE7CC;
+	position: fixed; 
+    width: 100%;
+}
+
+.home-dark {
+	background-color: #29658A;
+	position: fixed; 
+    width: 100%;
+}
+
+@media screen and (min-width: 800px) {
+  .home-light {
+	background-color: #FFE7CC;
+    width: 100%;
+}
+
+.home-dark {
+	background-color: #29658A;
+    width: 100%;
+}
+}
+
+.navbar-custom-light {
+	background-color: #29658A;
+}
+
+.navbar-custom-dark {
+	background-color: #FFE7CC;
+}
+
+.nav-link-light {
+	color: #E1CEB5; !important;
+	padding-left: 160px !important;
+	padding-right: 160px !important;
+}
+
+.nav-link-dark {
+	color: #29658A; !important;
+	padding-left: 160px !important;
+	padding-right: 160px !important;
+}
+
+.navbar-toggler {
+	background-color: #E1CEB5; !important;
+} 
+
+.navbar-toggler-dark {
+	background-color: #29658A; !important;
+} 
+
+.svg-light {
+	color: #E1CEB5;
+	width: 3em;
+	height: 3em;
+}
+
+.svg-dark {
+	color: #29658A;
+	width: 3em;
+	height: 3em;
+}
+
+.main-svg-light {
+	color: #FFFFFF;
+	width: 3.5em;
+	height: 3.5em;
+}
+
+.padding-custom {
+	padding-left: 250px !important;
+}
+
+.margin-custom {
+	margin: 50px !important;
+}
+
+h1 {
+font-family: 'Bodoni MT';
+font-style: normal;
+font-weight: 700;
+font-size: 95px;
+color: #29658A;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+padding-top: 80px;
+}
+
+.name-dark {
+font-family: 'Bodoni MT';
+font-style: normal;
+font-weight: 700;
+font-size: 95px;
+color: #FFE7CC;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+padding-top: 80px;
+}
+
+p {
+font-family: 'Blinker';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+color: #000000;
+}
+
+.desc-dark {
+font-family: 'Blinker';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+color: #FFFFFF;
+}
